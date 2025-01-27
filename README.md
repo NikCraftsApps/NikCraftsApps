@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🌟 Hi, I'm Nikodem! 🌟
 
-<!--
-**NikCraftsApps/NikCraftsApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | 🌍 Technology Enthusiast | 🛠 Crafting Solutions with C# and .NET Core
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+Hi there! I’m a software developer passionate about building intuitive and innovative desktop applications. Currently, I’m working on a customizable financial dashboard called **MyFinBoard**, designed to empower individuals and teams with better financial insights.
+
+---
+
+### 🌐 Tech Stack  
+- **Programming Languages & Frameworks:**  
+  - C#  
+  - .NET Core  
+  - Avalonia UI  
+- **Database Tools:**  
+  - SQL  
+  - SQLite  
+- **Practices & Tools:**  
+  - Clean Code  
+  - Debugging  
+  - Version Control (Git)
+
+---
+
+### 🔗 My Current Projects
+1. **Customizable Financial Dashboard – MyFinBoard**  
+   - Cross-platform desktop application designed for Windows and macOS.  
+
+2. **Open-Source Development Guides**  
+   - Focused on teaching key concepts like LAN synchronization, offline-first architecture, and dynamic UI creation.  
+   - [Check out my tutorials here!](https://github.com/NikCraftsApps/dev-guides)
+
+---
+
+### 📫 Let's Connect!  
+If you love clean code, enjoy exploring innovative tools, or want to collaborate, let’s connect:
+
+- 💼 **LinkedIn:** [Nikodem G.](https://www.linkedin.com/in/nikodem-grze%C5%9Bkowiak-85b55427a/)  
+
+---
