@@ -30,7 +30,8 @@ Hi there! I’m a software developer passionate about building intuitive and inn
 
 2. **Open-Source Development Guides**  
    - Focused on teaching key concepts like LAN synchronization, offline-first architecture, and dynamic UI creation.  
-   - [Check out my tutorials here!](https://github.com/NikCraftsApps/dev-guides)
+   - [Check out my tutorials for Avalonia-UI!](https://github.com/NikCraftsApps/avalonia-ui-tutorials)
+   - [Check out my tutorials for C# Backend!](https://github.com/NikCraftsApps/csharp-backend-tutorials)
 
 ---
 
