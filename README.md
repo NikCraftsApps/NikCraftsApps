@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm Nikodem! 🌟
 
-💻 Developer | 🌍 Technology Enthusiast | 🛠 Crafting Solutions with C# and .NET Core
+💻 Developer | 🌍 Technology Enthusiast | 🛠 Crafting Solutions with C# and .NET
 
 ---
 
