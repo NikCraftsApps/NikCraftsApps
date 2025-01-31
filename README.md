@@ -12,7 +12,7 @@ Hi there! I’m a software developer passionate about building intuitive and inn
 ### 🌐 Tech Stack  
 - **Programming Languages & Frameworks:**  
   - C#  
-  - .NET Core  
+  - .NET
   - Avalonia UI  
 - **Database Tools:**  
   - SQL  
